@@ -1,4 +1,4 @@
-## Partial Functional Application
+## Partial Application
 - 함수 파라메터의 일부를 반영한 새로운 함수를 만드는 방법이다.
 
 ## Curry
